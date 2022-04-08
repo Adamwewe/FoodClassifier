@@ -1,2 +1,2 @@
 # FoodClassifier
-Fun project with two other classmates with a mixup-augmented food classifier
+Fun project with three other classmates with a mixup-augmented food classifier
